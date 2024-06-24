@@ -1,0 +1,92 @@
+.header{
+    background-color: #F5511E;
+}
+.header2{
+    background-color: #F6F7F9;
+}
+ .banner{
+    position: relative;
+ }
+ 
+ #demo .carousel-caption {
+    position: absolute;
+    /* right: 15%; */
+    bottom: 1.25rem;
+    left: 12%;
+    padding-top: 1.25rem;
+    padding-bottom: 150px;
+    color: #fff;
+    text-align: left;
+}
+ .section4 .line{
+    width: 80px;
+    height: 3px;
+    background-color: #E3572C;
+     margin: auto;
+}
+.section5 i{
+    color: #F5511E;
+    font-size: 24px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+}
+.section6 .line2{
+    width: 80px;
+    height: 3px;
+    background-color: #E3572C;
+     margin: auto;
+     margin-bottom: 8px;
+     
+}
+.section8 .line3{
+    width: 80px;
+    height: 3px;
+    background-color: #E3572C;
+     margin: auto;
+     margin-bottom: 8px;
+     
+}
+.section9 .card-body h3{
+    padding: 5px;
+    
+    color: #ED6F3C
+
+    
+}
+.section9 .card-body p{
+    text-align: left;
+    padding-left: 8px;
+}
+.section7 i{
+    color: #ED6F3C;
+}
+.body{
+    background-color: black;
+}
+.footer h2{
+    color: white;
+}
+.footer p{
+    color: #78777A;
+}
+.footer h5{
+    color:  #924230;
+}
+.input-group-append .btn {
+    color: white;
+    background-color: red;
+    border: none;
+}
+ .section11 ul{
+    list-style: none;
+    
+ }
+ .section11 li{
+    padding: 5px;
+ }
+ .section11{
+     border-top: 1px solid #908F92;
+ }
+.section11 i{
+    color: white;
+}
